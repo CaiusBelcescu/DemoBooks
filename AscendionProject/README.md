@@ -3,7 +3,8 @@
 Small Vite + React demo showing a `BookCard` component using SWR and Tailwind.
 
 Quick start
-
+First enter AscendionProject and follow this steps:
+s
 1. Install deps:
 
 ```bash
